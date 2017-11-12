@@ -1,0 +1,8 @@
+*.o
+.hifimems*
+*.ko
+*.dtbo
+*.mod.c
+Module*
+modules.order
+.tmp_versions/
